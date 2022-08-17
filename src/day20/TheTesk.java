@@ -1,3 +1,5 @@
+package day20;
+
 public class TheTesk {
 
     // some commit
